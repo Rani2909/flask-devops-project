@@ -1,0 +1,8 @@
+/venv
+/terraform/terraform-infra/.terraform
+*.lock.hcl
+/terraform/terraform.exe
+LICENSE.txt
+*.zip
+*.backup
+*.tfstate
