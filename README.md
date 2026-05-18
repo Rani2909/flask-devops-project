@@ -1,5 +1,6 @@
-DevOps Project: Flask App Deployment on AWS EKS using Terraform
-Project Overview (My Understanding)
+**DevOps Project: Flask App Deployment on AWS EKS using Terraform**
+
+**Project Overview (My Understanding)**
 
 In this project, I built a complete end-to-end cloud deployment pipeline for a simple Flask application. The goal was to understand how a real production system works when we deploy applications using containers and Kubernetes on AWS.
 
